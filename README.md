@@ -1,4 +1,4 @@
-# U-Net Implementation
-This is U-Net implementation using the prostate cancer correlated diffusion dataset
-
+# UNETR Implementation
+This is UNETR implementation using the prostate cancer correlated diffusion dataset
+Source:
 Author: Jarett Dewbury
